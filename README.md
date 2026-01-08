@@ -18,7 +18,7 @@ $ flapi
 - [MIDI Scripting Device API Reference](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm#script_parameters)
 - [Working Controller Script List](https://forum.image-line.com/viewtopic.php?p=1494169#p1494169)
 - [FL Studio API Stubs - Installing Scripts Guide Docs](https://il-group.github.io/FL-Studio-API-Stubs/midi_controller_scripting/tutorials/installing_scripts/#configuring-the-script-in-fl-studio)
-- 
+- [FL Studio Forum - Scripting](https://forum.image-line.com/viewforum.php?f=1994)
 
 ## Setup
 
