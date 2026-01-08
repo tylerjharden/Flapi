@@ -14,12 +14,8 @@ $ flapi
 # Hint message "Hello from Flapi!" is displayed in FL Studio's hint panel
 ```
 
-## Maintenance
-
-This project is currently unmaintained, with the latest code on the `main`
-branch being half-way through a refactor. To learn more about this decision,
-please have a read of [Unmaintained.md](./Unmaintained.md). Thank you for
-understanding.
+## FL Studio API Links
+- [MIDI Scripting Device API Reference](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm#script_parameters)
 
 ## Setup
 
